@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Doperide",
+  "base_artist": "Saliva",
+  "createdAt": "2026-02-17T11:58:48.916509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Doperide",
+      "artist": "Saliva",
+      "has_synced": true,
+      "path": "select/01_Doperide_Saliva.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Doperide",
+      "artist": "Saliva",
+      "has_synced": true,
+      "path": "select/02_Doperide_Saliva.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "15 - Doperide",
+      "artist": "Saliva",
+      "has_synced": true,
+      "path": "select/03_15_-_Doperide_Saliva.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Doperide Saliva",
+      "artist": "Saliva",
+      "has_synced": true,
+      "path": "select/04_Doperide_Saliva_Saliva.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Doperide",
+      "artist": "Saliva",
+      "has_synced": true,
+      "path": "select/05_Doperide_Saliva.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Doperide (Album Version)",
+      "artist": "Saliva",
+      "has_synced": true,
+      "path": "select/06_Doperide_(Album_Version)_Saliva.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Doperide",
+      "artist": "Saliva",
+      "has_synced": false,
+      "path": "select/pl_01_Doperide_Saliva.txt"
+    }
+  ]
+}
